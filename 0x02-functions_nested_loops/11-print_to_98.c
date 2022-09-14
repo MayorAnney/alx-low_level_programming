@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- *  * print_to_98 - prints numbers to 98
+ ** print_to_98 - prints numbers to 98
  *
  *   * @n: starting integer
  *
@@ -13,7 +13,7 @@
  *
  *      *
  *
- *       * Return: void
+ * *Return: void
  *
  */
 
